@@ -1,7 +1,7 @@
 /*This program makes use of Binary Search Trees to simulate Telephone Directory.
 *It keeps track of all the names and number stored in it.
 *It allows you to Add a contact , Delete a contact and Display all the contacts in alphabetical order.
-*It takes input from file called as direct.cpp.
+*It takes input from file called as names.txt.
 */
 
 
